@@ -1,0 +1,18 @@
+.icon-square {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 0.75rem;
+  }
+
+.button{
+    background-color: #01DF00;
+    border-color: #01DF00;
+}
+
+.header-color{
+    color: #01DF00;
+}
+
+#header{
+    background-color: #1e1e1ea7;
+}
